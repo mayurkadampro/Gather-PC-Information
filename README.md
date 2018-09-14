@@ -1,4 +1,4 @@
 # Victim-Pc-Information
 Work In Progress.... (Not Finished Yet)
 
-![](output.jpg)
+![](output.png)
