@@ -1,4 +1,3 @@
 # Victim-Pc-Information
-Work In Progress.... (Not Finished Yet)
-
+Very Basic part Is Done. Work In Progress.... More Update Will Coming
 ![](output.png)
